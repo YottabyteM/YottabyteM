@@ -4,7 +4,7 @@ I'm QQ.
 
 <p align="left">
   <img src = "https://github-readme-stats-mh7q.vercel.app/api?username=YottabyteM&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-  <img src = "https://github-readme-stats-mh7q.vercel.app/api/top-langs/?username=YottabyteM&hide_border=true&langs_count=6"/>
+  <img src = "https://github-readme-stats-mh7q.vercel.app/api/top-langs/?username=YottabyteM&hide_border=true&langs_count=3"/>
 </p>
 
 <!--
