@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Qi Ma. I received the B.S. degree in computer science from Nankai University in 2024, supervised by Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). I'm currently a Ph.D. candidate at Media Computing Lab, Nankai University, supervised by Prof. Xiuli Shao and co-supervised by Prof. [Deng-Ping Fan](https://dengpingfan.github.io/pages/People.html).
+I am Qi Ma. I received the B.S. degree in computer science from Nankai University in 2024, supervised by Prof. [Ming-Ming Cheng](https://mmcheng.net/cmm/). I'm currently a Ph.D. Student at Media Computing Lab, Nankai University, supervised by Prof. Xiuli Shao and co-supervised by Prof. [Deng-Ping Fan](https://dengpingfan.github.io/pages/People.html).
 My research interests include vision-language prompt learning, instance segmentation, and subtle vision perception. Feel free to contact me at [gmail](mailto:nkucsmq@gmail.com).
 
 <p align="left">
